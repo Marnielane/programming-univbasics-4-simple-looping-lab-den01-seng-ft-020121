@@ -31,5 +31,5 @@ def output_array(array)
     puts array[count]
     count += 1 
   end
-  
+  array = [5, 4, 3, 2, 1]
 end
